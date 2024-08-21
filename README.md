@@ -76,3 +76,23 @@ The dataset used in this project was sourced from Kaggle. It was split into seve
 
 1. Import the SQL files into your database management system.
 2. The database is ready for use with any SQL-based queries for analysis, reporting, or application development.
+
+----------------------------
+![1](/HeartAttackRisk/1.png)
+![2](/HeartAttackRisk/2.png)
+![3](/HeartAttackRisk/3.png)
+![4](/HeartAttackRisk/4.png)
+![5](/HeartAttackRisk/5.png)
+![6](/HeartAttackRisk/6.png)
+![7](/HeartAttackRisk/7.png)
+![8](/HeartAttackRisk/8.png)
+![9](/HeartAttackRisk/9.png)
+![10](/HeartAttackRisk/10.png)
+![11](/HeartAttackRisk/11.png)
+![12](/HeartAttackRisk/12.png)
+![13](/HeartAttackRisk/13.png)
+![14](/HeartAttackRisk/14.png)
+![15](/HeartAttackRisk/15.png)
+![16](/HeartAttackRisk/16.png)
+![17](/HeartAttackRisk/17.png)
+![18](/HeartAttackRisk/18.png)
